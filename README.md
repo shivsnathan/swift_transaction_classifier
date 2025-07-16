@@ -66,8 +66,6 @@ Balanced dataset with **1,420** labeled transactions across 12 categories:
 | Miscellaneous | 100.00%   | 85.71% |
 | Transport     | 100.00%   | 71.43% |
 
-_For full confusion matrix and per-class metrics, refer to the PR or logs._
-
 ---
 
 ## 📂 Files
