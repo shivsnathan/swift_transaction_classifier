@@ -1,8 +1,4 @@
-Absolutely! Here's the updated `README.md` with your requested addition clearly included under the **Model Performance** section:
 
----
-
-````markdown
 # 💳 Credit Card Spending Category Classifier
 
 A Core ML-powered model that predicts the spending category of a credit card transaction based on its **description** and **amount**. Built using **Apple’s Create ML** and trained on real-world, labeled transaction data.
